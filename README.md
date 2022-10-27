@@ -1,5 +1,5 @@
 # DS-Important-Libraries
-Collection of notebooks describing common use cases of some important <a href="https://www.python.org/"><img src="python.png" width="20px"></a> libraries for **Data Science**
+Collection of notebooks describing common use cases of some important <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo.png" width="80px"></a> libraries for **Data Science**
 
 To know about <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="20px"> refer to the [official documentation](https://docs.jupyter.org/en/latest/).
 
